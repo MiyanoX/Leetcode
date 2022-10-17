@@ -3,12 +3,9 @@ class Solution:
         if not head or not head.next:
             return head
         
-        prev = None
-        while head.next:
-            next = head.next
-            head.next = prev
-            prev = head
-            head = next
+        reverseHead = self.reverseList(head.next)
+        head.next.next = head
+        head.next = None
         
-        head.next = prev
-        return head
+        return reverseHead
+        
