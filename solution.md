@@ -1,0 +1,1 @@
+✔ Easy Python Solution✔Binary Search✔Not recursive
