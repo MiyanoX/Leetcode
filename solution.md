@@ -1,1 +1,3 @@
-✔ Easy Python Solution✔Binary Search✔Not recursive
+✔ Easy Python Solution✔
+# 💡 Comments Welcome!
+# ⬆️Upvote If Like It ~
