@@ -1,4 +1,4 @@
 ✔ Easy Python Solution✔
 
-# 💡 Question & Comments Welcome!
+# 💡 Questions & Comments Welcome!
 # ⬆️ Upvote If Like It ~
