@@ -1,5 +1,5 @@
 ✔ Easy Python Solution✔
 
 
-# 💡 Comments Welcome!
-# ⬆️Upvote If Like It ~
+# 💡 Question & Comments Welcome!
+# ⬆️ Upvote If Like It ~
