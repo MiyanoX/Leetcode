@@ -1,7 +1,7 @@
 class Solution:
     def reverseVowels(self, s: str) -> str:
         vowels = "aeiouAEIOU"                               # vowels char dictionary
-        start, end = 0, len(s) - 1                          # set two pointers
+        start, end = 0, len(s) - 1                          # set two pointers 
         s = list(s)                                         # transform string to list
         while start < end:
             while start < end and s[start] not in vowels:   # move forward start pointer until it is vowel or end
